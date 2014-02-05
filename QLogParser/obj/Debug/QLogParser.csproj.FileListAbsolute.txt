@@ -1,0 +1,16 @@
+E:\Qiang\Projects\QLogParser\QLogParser\bin\Debug\QLogParser.exe.config
+E:\Qiang\Projects\QLogParser\QLogParser\bin\Debug\QLogParser.exe
+E:\Qiang\Projects\QLogParser\QLogParser\bin\Debug\QLogParser.pdb
+E:\Qiang\Projects\QLogParser\QLogParser\obj\Debug\QLogParser.csprojResolveAssemblyReference.cache
+E:\Qiang\Projects\QLogParser\QLogParser\obj\Debug\QLogParser.exe
+E:\Qiang\Projects\QLogParser\QLogParser\obj\Debug\QLogParser.pdb
+E:\Qiang\Projects\QLogParser\QLogParser\obj\Debug\Interop.MSUtil.dll
+E:\Qiang\Projects\QLogParser\QLogParser\obj\Debug\QLogParser.csproj.ResolveComReference.cache
+E:\Qiang\QLogParser\QLogParser\bin\Debug\QLogParser.exe.config
+E:\Qiang\QLogParser\QLogParser\obj\Debug\Interop.MSUtil.dll
+E:\Qiang\QLogParser\QLogParser\obj\Debug\QLogParser.csproj.ResolveComReference.cache
+E:\Qiang\QLogParser\QLogParser\obj\Debug\QLogParser.exe
+E:\Qiang\QLogParser\QLogParser\obj\Debug\QLogParser.pdb
+E:\Qiang\QLogParser\QLogParser\bin\Debug\QLogParser.exe
+E:\Qiang\QLogParser\QLogParser\bin\Debug\QLogParser.pdb
+E:\Qiang\QLogParser\QLogParser\obj\Debug\QLogParser.csprojResolveAssemblyReference.cache

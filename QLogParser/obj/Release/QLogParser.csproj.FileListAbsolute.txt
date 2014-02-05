@@ -1,0 +1,11 @@
+E:\Qiang\QLogParser\QLogParser\bin\Release\QLogParser.exe.config
+E:\Qiang\QLogParser\QLogParser\bin\Release\QLogParser.exe
+E:\Qiang\QLogParser\QLogParser\bin\Release\QLogParser.pdb
+E:\Qiang\QLogParser\QLogParser\obj\Release\Interop.MSUtil.dll
+E:\Qiang\QLogParser\QLogParser\obj\Release\QLogParser.csproj.ResolveComReference.cache
+E:\Qiang\QLogParser\QLogParser\obj\Release\QLogParser.exe
+E:\Qiang\QLogParser\QLogParser\obj\Release\QLogParser.pdb
+C:\Users\Qiang\Downloads\QLogParser\QLogParser\QLogParser\bin\Release\QLogParser.exe.config
+C:\Users\Qiang\Downloads\QLogParser\QLogParser\QLogParser\obj\Release\QLogParser.csproj.ResolveComReference.cache
+C:\Users\Qiang\Downloads\QLogParser\QLogParser\QLogParser\obj\Release\QLogParser.exe
+C:\Users\Qiang\Downloads\QLogParser\QLogParser\QLogParser\obj\Release\QLogParser.pdb
